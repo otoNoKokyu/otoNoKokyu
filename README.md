@@ -1,6 +1,5 @@
 - 👋 Hi, I’m  Arkopal Chakraborty aka @otoNoKokyu
 - 👀 I get creative at the server-side
-- 🌱 I’m currently learning NodeJS, NextJs
 - 💞️ I’m looking to collaborate literally anything which is not boring
 
 <!---
